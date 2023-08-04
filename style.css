@@ -31,3 +31,4 @@ div.civitai-status.connected:before {
     background:green;
     animation: blink 1s ease-in-out infinite;
 }
+.extra-network-thumbs .actions .additional{ position:relative;}
